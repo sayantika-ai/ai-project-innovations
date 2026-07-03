@@ -7,7 +7,7 @@ Advanced AI product architectures, edge-AI specifications, and 3D volumetric tra
 * **Core Tech Stack:** Natural Language Processing (NLP), Sentiment Analysis, and Collaborative Filtering matrices.
 * **Status:** `Conceptual Architecture / Logic Prototyping`
 <br>
-### 2. 🎓 Campus-Onboarding Conversational AI Assistant
+ 2. 🎓 Campus-Onboarding Conversational AI Assistant
 * **Focus:** Developing an intelligent, natural-language interface to streamline the administrative, hostel, and registration onboarding workflows for incoming university students.Incoming university freshers face extensive administrative friction navigating multi-tiered hostel configurations, fee verifications, and scholarship policies, often experiencing communication delays when human support desks are offline.
 * **Objective:** An enterprise-grade, retrieval-augmented institutional assistant designed to parse complex university policy frameworks. It provides 24/7, verified context regarding campus logistics, portal structures, and compliance checkpoints.
 * **Status:** `Conceptualizing Architecture & Data Gathering`
